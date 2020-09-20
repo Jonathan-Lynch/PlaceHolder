@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PlaceHolder"
+    }
+  },
+  "defaultProject": "PlaceHolder",
+  "cli": {
+    "analytics": false
+  }
 }
