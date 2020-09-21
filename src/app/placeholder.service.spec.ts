@@ -1,5 +1,4 @@
 import { TestBed } from '@angular/core/testing';
-
 import { PlaceholderService } from './placeholder.service';
 
 describe('PlaceholderService', () => {
